@@ -1,0 +1,4 @@
+#list some patterns of files I want Git to ignore
+
+*.dat
+results/
